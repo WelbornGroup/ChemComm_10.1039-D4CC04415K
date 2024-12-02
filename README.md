@@ -14,6 +14,6 @@ All poltype output parameter sets were combined with amoebabio18.prm which inclu
 The structure files provided are the dynamics input files, post minimization and centering, except for the specified no-preminimization alpha directories.
 
 **Trajectory files were stored on Zenodo:** 
-[Aggregation Trajectories 10.1039/D4CC04415K](https://zenodo.org/records/14218294)
-[Monosaccharide Trajectories ChemComm 10.1039/D4CC04415K](https://zenodo.org/records/14225791)
+[Aggregation Trajectories 10.1039/D4CC04415K](https://zenodo.org/records/14218294),
+[Monosaccharide Trajectories ChemComm 10.1039/D4CC04415K](https://zenodo.org/records/14225791),
 [Alpha-Beta parameter swap trajectories 10.1039/D4CC04415K](https://zenodo.org/records/14225133)
